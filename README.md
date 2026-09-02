@@ -32,6 +32,9 @@ A clean and responsive **Indoor Plant Care Dashboard** built as a lightweight st
 
 ```text
 plant_UI/
+├──assets/
+|        └── preview.png    # imgage
+|
 ├── index.html      # Main dashboard page
 └── README.md       # Project documentation
 ```
