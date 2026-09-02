@@ -2,6 +2,15 @@
 
 A clean and responsive **Indoor Plant Care Dashboard** built as a lightweight static frontend. The interface helps users view their indoor plants and keep track of upcoming care tasks such as watering, sunlight requirements, and fertilization.
 
+## 🌱 Plant Care Dashboard
+
+* A clean and responsive **Indoor Plant Care Dashboard**...
+
+ <p align="center">
+   <img src="assets/preview.png" alt="Plant Care Dashboard Preview" width="900">
+ </p>
+
+
 ## ✨ Features
 
 * 🌿 **Plant collection** — Displays commonly managed indoor plants such as Fiddle Leaf Fig, Snake Plant, Monstera, and Pothos.
